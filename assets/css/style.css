@@ -1,0 +1,22 @@
+body {
+    background-image: url("images/x-wing.jpg");
+}
+
+.container {
+    font-size: 16px;
+    text-align: left;
+};
+
+.button {width: 25%;
+         height:auto;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    padding: 2px;
+    padding-top: 3px;
+    width: 75px; 
+  }
+
+

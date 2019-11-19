@@ -32,26 +32,27 @@ var obi-wan = {
         health: 100,
         attack: 105, 25,5,
         "assets/images/obi-wan.webp",
-}
+};
 
 var luke = {
         name: 'Luke Skywalker',
         health: 100,
         attack: 90, 35, 1,
         "assets/images/luke-skywalker.jpeg",
-}
+};
 
 var sidious = {
         name: "Darth Sidious",
         health: 100,
         attack: 120, 10, 1,
         "assets/images/darth-sidious.jpeg",
-}
+};
 
 var maul = {
         name: "Darth Maul",
         health: 100,
         attack: 110, 19, 10,
         "assets/images/darth-maul.jpeg",
-}
+};
+characterArray.push(obi-wan, luke, sidious, maul);
 }
